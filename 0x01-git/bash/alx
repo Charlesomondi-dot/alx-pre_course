@@ -1,1 +1,2 @@
--e#!/bin/bash\n\necho "ALX"
+#!/bin/bash
+echo "ALX school"
